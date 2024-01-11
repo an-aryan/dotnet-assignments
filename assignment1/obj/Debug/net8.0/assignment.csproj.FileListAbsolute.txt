@@ -1,0 +1,14 @@
+C:\Windows\System32\assignment\bin\Debug\net8.0\assignment.exe
+C:\Windows\System32\assignment\bin\Debug\net8.0\assignment.deps.json
+C:\Windows\System32\assignment\bin\Debug\net8.0\assignment.runtimeconfig.json
+C:\Windows\System32\assignment\bin\Debug\net8.0\assignment.dll
+C:\Windows\System32\assignment\bin\Debug\net8.0\assignment.pdb
+C:\Windows\System32\assignment\obj\Debug\net8.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\System32\assignment\obj\Debug\net8.0\assignment.AssemblyInfoInputs.cache
+C:\Windows\System32\assignment\obj\Debug\net8.0\assignment.AssemblyInfo.cs
+C:\Windows\System32\assignment\obj\Debug\net8.0\assignment.csproj.CoreCompileInputs.cache
+C:\Windows\System32\assignment\obj\Debug\net8.0\assignment.dll
+C:\Windows\System32\assignment\obj\Debug\net8.0\refint\assignment.dll
+C:\Windows\System32\assignment\obj\Debug\net8.0\assignment.pdb
+C:\Windows\System32\assignment\obj\Debug\net8.0\assignment.genruntimeconfig.cache
+C:\Windows\System32\assignment\obj\Debug\net8.0\ref\assignment.dll
